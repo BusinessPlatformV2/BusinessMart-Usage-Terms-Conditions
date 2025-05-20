@@ -1,7 +1,7 @@
 # BusinessMart-Usage-Terms-Conditions
-# TERMS OF USE
+ TERMS OF USE
 
-# BACKGROUND:
+ BACKGROUND:
 
 	These Terms of Use, together with any and all other documents referred to herein, set out the terms of use under which you may use this platform, businessmart.co.zw (“Our Site”). Please read these Terms of Use carefully and ensure that you understand them. Your agreement to comply with and be bound by these Terms of Use is deemed to occur upon your first use of Our Site AND/OR You will be required to read and accept these Terms of Use when signing up for an Account. If you do not agree to comply with and be bound by these Terms of Use, you have the option to stop using our platform immediately. These Terms of Use do not apply to the sale of goods. Please refer to our Terms of Sale for more information.
 
